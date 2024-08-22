@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/godrej_professionals/static/css/main.98bcc381.css",
+    "main.js": "/godrej_professionals/static/js/main.45073e5e.js",
+    "static/js/453.81439389.chunk.js": "/godrej_professionals/static/js/453.81439389.chunk.js",
+    "static/media/explore3.jpeg": "/godrej_professionals/static/media/explore3.d8d8d23fa9d40c206181.jpeg",
+    "static/media/explore2.jpeg": "/godrej_professionals/static/media/explore2.e9387f13e98a090e951d.jpeg",
+    "static/media/explore1.jpeg": "/godrej_professionals/static/media/explore1.469c5afcc32a09ccdfb7.jpeg",
+    "static/media/four.jpeg": "/godrej_professionals/static/media/four.4b93eaa0a049b497caf9.jpeg",
+    "static/media/two.jpeg": "/godrej_professionals/static/media/two.4b93eaa0a049b497caf9.jpeg",
+    "static/media/six.jpg": "/godrej_professionals/static/media/six.bef6734bf40f23828652.jpg",
+    "static/media/slick.svg": "/godrej_professionals/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/godrej_professionals/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/godrej_professionals/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/godrej_professionals/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/godrej_professionals/index.html",
+    "main.98bcc381.css.map": "/godrej_professionals/static/css/main.98bcc381.css.map",
+    "main.45073e5e.js.map": "/godrej_professionals/static/js/main.45073e5e.js.map",
+    "453.81439389.chunk.js.map": "/godrej_professionals/static/js/453.81439389.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98bcc381.css",
+    "static/js/main.45073e5e.js"
+  ]
+}
